@@ -1,0 +1,9 @@
+cd /usr/bin
+
+sudo wget https://raw.githubusercontent.com/jojoxyz/TvHeadend-Simple-file-EPG-grabber/main/tv_grab_file
+sudo chmod a+rx tv_grab_file
+
+----- add extra argument to TvHeadend Simple file EPG grabber -----
+-----             lokation guide.xml            -----
+
+/home/pi/wg_plus_epg/guide.xml
